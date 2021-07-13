@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimbeomchul/puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimbeomchul/puppeteer/issues"
+  },
+  "homepage": "https://github.com/Kimbeomchul/puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
