@@ -23,4 +23,4 @@ page.evaluate((a, b) => { // 여기위에만 작성했다가 에러뜨는걸 못
 ```
 
 ### Demo
-
+![puppeteer](https://user-images.githubusercontent.com/54543148/125465051-f12d78ac-91a3-4157-b73a-7f3dca92ed9c.gif)
